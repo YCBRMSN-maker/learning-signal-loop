@@ -1,4 +1,4 @@
-# learning-signal-loop
+# syncPBL-skill
 
 校园教学场景的 **Agent Skill**：用**一条学情信号闭环**，同时支撑「学生端 · 个性化答疑」与「教师端 · 学情智能研判」。
 
